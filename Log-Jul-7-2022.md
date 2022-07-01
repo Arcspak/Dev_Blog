@@ -32,4 +32,11 @@ Complete the operation naturally and intuitively, which is the scheme we have al
 The above changes have been developed and tested and will be available soon.
 
 ## Development plan
-Some users reported that they could not create a
+While updating the data toolkit, we also have new development plans to help developers develop games more smoothly and quickly.
+We found that most developers spend a lot of time on resource management, including writing a lot of code on the processes of loading/unloading asset in both AssetBundle and Resources path, dealing with platform differences, and establishing resource pools.
+
+Time to use tools to organize project structure and assets. This tool needs to provide a simple interface while realizing all the above functions. We're now work on it.
+
+Although there is no specific timetable, this package on asset and data management will probably be completed in a few weeks, and will enter the testing and later submission review stage.
+
+We will still have the first week discount on this new asset. If you need this tool, please follow our news, and don't forget [🗃️ Data Toolkit](https://assetstore.unity.com/packages/slug/224909) is **50% off** right now!
