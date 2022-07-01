@@ -43,3 +43,4 @@ We will still have the first week discount on this new asset. If you need this t
 
 ## EOF
 These are all the contents worth sharing at present. Any feedback you can give me on this would be highly appreciated, please let us know if you have any comments.
+See you next time!
