@@ -17,3 +17,7 @@ Instead, they could only create a new table in the original file to realize the 
 Now we have implemented a new method, which allows users to create new database files in persistent data path and automatically deal with platform related path problems.
 
 Another big change is about CSV Util in Data Toolkit.
+The first row of CSV file generally represents the table header declaration, identifying the data name and data type of each column. The remaining lines are data.
+The data of header row is used to describe the type of data and provide the key name information of the whole column.
+This is a common practice that conforms to the characteristics of data-driven development, and a lot of large game development companies, such as Blizzard and EA, also use this way to complete a configuration or description file in their projects.
+
