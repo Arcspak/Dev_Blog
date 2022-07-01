@@ -12,3 +12,8 @@ We therefore recommend that you check out our [online documentation page](https:
  
 
 ## Preview of new features of Data Toolkit
+Some users reported that they could not create a standard SQLite database file at runtime.
+Instead, they could only create a new table in the original file to realize the function, which caused some logical confusion.
+Now we have implemented a new method, which allows users to create new database files in persistent data path and automatically deal with platform related path problems.
+
+Another big change is about CSV Util in Data Toolkit.
