@@ -1,4 +1,4 @@
-## Update preview of data toolkit and subsequent development plan
+## Update preview of Data Toolkit and subsequent development plan
 
 Hello anyone, this is Arcspark.
 
@@ -11,4 +11,4 @@ For some review reasons of Unity Asset Store, we cannot update the PDF document 
 We therefore recommend that you check out our [online documentation page](https://github.com/Arcspak/Tutorials) for timely update.
  
 
-## Recent articles
+## Preview of new features of Data Toolkit
