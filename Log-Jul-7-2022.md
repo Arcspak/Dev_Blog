@@ -9,7 +9,6 @@ Now the [new document](https://github.com/Arcspak/Tutorials/blob/main/Data_Toolk
 with more API descriptions and sample code, and covers all important functions as much as possible.
 For some review reasons of Unity Asset Store, we cannot update the PDF document files in the published package in real time.
 We therefore recommend that you check out our [online documentation page](https://github.com/Arcspak/Tutorials) for timely update.
- 
 
 ## Preview of new features of Data Toolkit
 Some users reported that they could not create a standard SQLite database file at runtime.
@@ -19,5 +18,18 @@ Now we have implemented a new method, which allows users to create new database 
 Another big change is about CSV Util in Data Toolkit.
 The first row of CSV file generally represents the table header declaration, identifying the data name and data type of each column. The remaining lines are data.
 The data of header row is used to describe the type of data and provide the key name information of the whole column.
+
 This is a common practice that conforms to the characteristics of data-driven development, and a lot of large game development companies, such as Blizzard and EA, also use this way to complete a configuration or description file in their projects.
 
+However, header row is not a standard in CSV format. Using pure CSV without header row to manage game data is also needed.
+Therefore, we have updated the functions of CSVTable to support pure CSV.
+
+Now the two formats of CSV can both be parsed and serialized correctly. CSVTable will distinguish, parse and serialize them automatically.
+The operations on them can be completed with a unified interface.
+The two forms of csvtables are all indicated differently in the field about ColumnHeader, so users don't need to pay much attention to the differences.
+Complete the operation naturally and intuitively, which is the scheme we have always advocated and practiced.
+
+The above changes have been developed and tested and will be available soon.
+
+## Development plan
+Some users reported that they could not create a
