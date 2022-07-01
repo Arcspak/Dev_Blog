@@ -5,4 +5,4 @@ We usually update this blog when there are important development plans or upcomi
 
 ## Recent articles
 
-- [🆕 Update preview of data toolkit and subsequent development plan](https://github.com/Arcspak/Dev_Blog/blob/main/Log-Jul-7-2022.md)
+- [🆕 Update preview of Data Toolkit and subsequent development plan](https://github.com/Arcspak/Dev_Blog/blob/main/Log-Jul-7-2022.md)
