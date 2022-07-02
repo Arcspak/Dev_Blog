@@ -21,7 +21,7 @@ The data of header row is used to describe the type of data and provide the key 
 
 This is a common practice that conforms to the characteristics of data-driven development, and a lot of large game development companies, such as Blizzard and EA, also use this way to complete a configuration or description file in their projects.
 
-However, header row is not a standard in CSV format. Using pure CSV without header row to manage game data is also needed.
+However, header row is not a part of standard syntax rule in CSV format. Using pure CSV without header row to manage game data is also needed.
 Therefore, we have updated the functions of CSVTable to support pure CSV.
 
 Now the two formats of CSV can both be parsed and serialized correctly. CSVTable will distinguish, parse and serialize them automatically.
