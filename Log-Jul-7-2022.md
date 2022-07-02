@@ -29,7 +29,7 @@ The operations on them can be completed with a unified interface.
 The two forms of csvtables are all indicated differently in the field about ColumnHeader, so users don't need to pay much attention to the differences.
 Complete the operation naturally and intuitively, which is the scheme we have always advocated and practiced.
 
-The above changes have been developed and tested and will be available soon.
+The above changes have been developed and tested(in the new version 1.1) and will be available soon.
 
 ## Development plan
 While updating the data toolkit, we also have new development plans to help developers develop games more smoothly and quickly.
