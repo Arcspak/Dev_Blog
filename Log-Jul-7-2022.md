@@ -39,7 +39,7 @@ Time to use tools to organize project structure and assets. This tool needs to p
 
 Although there is no specific timetable, this package on asset and data management will probably be completed in a few weeks, and will enter the testing and later submission review stage.
 
-We will still have the first week discount on this new asset. If you need this tool, please follow our news, and don't forget [🗃️ Data Toolkit](https://assetstore.unity.com/packages/slug/224909) is **50% off** right now!
+We will still have the first week discount on this new asset. If you need this tool, please follow our news.
 
 ## EOF
 These are all the contents worth sharing at present. Any feedback you can give me on this would be highly appreciated, please let us know if you have any comments.
